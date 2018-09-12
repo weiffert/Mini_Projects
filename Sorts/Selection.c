@@ -12,5 +12,7 @@ void selectionSort(int len, int *arr) {
 }
 
 int main() {
-  
+  int len;
+  int *arr;
+  scanf("%d\n", len);
 }
